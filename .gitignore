@@ -1,0 +1,15 @@
+# --- 비밀 정보: 절대 커밋하지 않습니다 (30단계부터 사용) ---
+.env
+
+# --- Python ---
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# --- 편집기 / OS ---
+.vscode/
+.idea/
+.DS_Store
